@@ -10,6 +10,9 @@
 3. `npm install` under `/app` on `container`
 4. `npx vitepress init` under `/app` on `container`
 
+## Re-use
+Copy code in `vitepress`
+
 ## Author
 [gmdr1024](https://github.com/gmdr1024)
 
